@@ -1,11 +1,6 @@
 # PUST
 ## Projekt 1  
 
-### Ważne linki:  
-- [Sprawozdanie - 1](https://www.overleaf.com/6381818184wxsnbtmtgjgm)  
-- [Dane](https://drive.google.com/open?id=15-Y8hxZMemjFxZP17hmgdyvaOzgC_sCV)
-
-
 ### WAŻNE INFO:  
 	- DEADLINE: 20.03: 17:30  
 	- ostatnie zmiany w sprawku: 14:30  
